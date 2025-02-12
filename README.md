@@ -1,5 +1,5 @@
 # Fake-News-Detection
-# Fake News Detection
+
 
 ## Overview
 This project is a **Fake News Detection** system that uses **Machine Learning** models to classify news as *Fake* or *Not Fake*. It takes a news article as input, processes the text, vectorizes it, and then predicts whether the news is real or fake using multiple classification models.
